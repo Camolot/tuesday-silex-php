@@ -35,4 +35,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-vendor/**
+/app/cache/*
+/app/logs/*
+/app/bootstrap*
+/vendor/*
+/web/bundles/
+/app/config/parameters.yml
